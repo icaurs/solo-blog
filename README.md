@@ -10,6 +10,11 @@
 
 ### 最新
 
+* [比特币“抄底”还为时尚早，但两重要指标却暗藏惊喜](https://btstar.xyz/solo/articles/2019/09/26/1569467737421.html)
+* [加密市场市值骤降300亿美元，但市场谈恐慌尚早](https://btstar.xyz/solo/articles/2019/09/26/1569467660857.html)
+* [Bakkt表现不佳就意味着比特币期货完蛋了吗？](https://btstar.xyz/solo/articles/2019/09/26/1569467495367.html)
+* [享云链完成“郑和”升级 性能与隐私上下足了功夫](https://btstar.xyz/solo/articles/2019/09/26/1569467432171.html)
+* [现在挖一枚比特币需要耗费多少成本？](https://btstar.xyz/solo/articles/2019/09/26/1569467359199.html)
 * [产业一线 | Qtum量子链发布QIP-7：Qtum虚拟机升级，五大更新全面提升开发性能](https://btstar.xyz/solo/articles/2019/09/25/1569422784546.html)
 * [【CoinNess】BTC多头不会死！150亿美元成交支持3个点位反弹盈利](https://btstar.xyz/solo/articles/2019/09/25/1569422586727.html)
 * [BTC晚间还有大动作  这次还要错过吗？](https://btstar.xyz/solo/articles/2019/09/25/1569422467571.html)
@@ -25,11 +30,6 @@
 * [Bakkt能否开启下一轮牛市？这篇「Bakkt专访」一窥究竟](https://btstar.xyz/solo/articles/2019/09/23/1569247850661.html)
 * [以太坊已然在路上，比特币何时再出发？](https://btstar.xyz/solo/articles/2019/09/23/1569247787201.html)
 * [以太坊3.0计划浮出水面，抵御量子计算攻击成为重点](https://btstar.xyz/solo/articles/2019/09/23/1569247561665.html)
-* [重磅！Bakkt正式上线，比特币翻开历史新篇章](https://btstar.xyz/solo/articles/2019/09/23/1569208651075.html)
-* [用模型告诉你，2020年5月比特币市值将达到1万亿美元](https://btstar.xyz/solo/articles/2019/09/23/1569208596919.html)
-* [十年前黑客们将比特币视为“信仰”，比特币与其他货币有何不同？](https://btstar.xyz/solo/articles/2019/09/23/1569208460595.html)
-* [比特币应该成为行业基准，资深基金创始人揭秘投资战略](https://btstar.xyz/solo/articles/2019/09/23/1569208384114.html)
-* [我有一个大胆的想法：比特币可以扩展吗？](https://btstar.xyz/solo/articles/2019/09/22/1569158683307.html)
 
 ### 热门
 
